@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><?mso-infoPathSolution solutionVersion="1.0.0.27" productVersion="15.0.0" PIVersion="1.0.0.0" href="file:///C:\Users\jorlu\AppData\Local\Microsoft\InfoPath\Designer4\c1b6e9eda87b49f3\manifest.xsf" ?><?mso-application progid="InfoPath.Document" versionProgid="InfoPath.Document.4"?><my:myFields xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2016-10-05T00:12:37" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003" xml:lang="en-us">
+	<my:Name>Elvyn</my:Name>
+	<my:group2>
+		<my:Goals></my:Goals>
+	<my:Goals>Answered with questions</my:Goals><my:Goals>Turn taking skills</my:Goals><my:Goals>Increased expressive language skills by labeling items</my:Goals><my:Goals>Requested items using 5-7 words</my:Goals><my:Goals>Requested items using 5-6 words</my:Goals></my:group2>
+	<my:AllottedHours>120</my:AllottedHours>
+	<my:AllottedMinutes>7200</my:AllottedMinutes>
+	<my:RemainingMinutes>7107</my:RemainingMinutes>
+	<my:Sessions>
+		<my:SessionDate>2016-10-04T20:31:26-04:00</my:SessionDate>
+		<my:SessionTime>33</my:SessionTime>
+		<my:Notes><div xmlns="http://www.w3.org/1999/xhtml">
+<div><font size="2" face="Calibri">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec non tristique lacus, in euismod risus. Etiam tempor, neque in mattis pretium, justo erat malesuada odio, sit amet luctus ligula dolor a arcu. Suspendisse vitae libero elit. Duis sollicitudin lacus odio, ut volutpat libero mattis nec. Fusce dapibus, sem eget elementum suscipit, eros nisl venenatis lectus, eu ornare purus augue eu tellus. Vestibulum sit amet tempor nisl, eu vulputate ex. Pellentesque elit odio, consectetur non dapibus id, fringilla non dui. Ut sagittis semper ante, dignissim volutpat metus interdum vitae. Donec vel arcu luctus, iaculis nisl quis, posuere nulla. Curabitur hendrerit, dolor a ornare viverra, ex tortor tempor magna, et varius sem arcu eget augue. Aliquam ac tincidunt mauris, sit amet auctor enim. Ut aliquam non odio a facilisis. Fusce pharetra arcu id egestas cursus. Mauris a aliquet magna, vitae consequat leo.</font></div></div></my:Notes>
+	</my:Sessions>
+<my:Sessions>
+									<my:SessionDate>2016-10-05T20:31:55</my:SessionDate>
+									<my:SessionTime>60</my:SessionTime>
+									<my:Notes><div xmlns="http://www.w3.org/1999/xhtml">
+<div><font size="2" face="Calibri">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec non tristique lacus, in euismod risus. Etiam tempor, neque in mattis pretium, justo erat malesuada odio, sit amet luctus ligula dolor a arcu. Suspendisse vitae libero elit. Duis sollicitudin lacus odio, ut volutpat libero mattis nec. Fusce dapibus, sem eget elementum suscipit, eros nisl venenatis lectus, eu ornare purus augue eu tellus. Vestibulum sit amet tempor nisl, eu vulputate ex. Pellentesque elit odio, consectetur non dapibus id, fringilla non dui. Ut sagittis semper ante, dignissim volutpat metus interdum vitae. Donec vel arcu luctus, iaculis nisl quis, posuere nulla. Curabitur hendrerit, dolor a ornare viverra, ex tortor tempor magna, et varius sem arcu eget augue. Aliquam ac tincidunt mauris, sit amet auctor enim. Ut aliquam non odio a facilisis. Fusce pharetra arcu id egestas cursus. Mauris a aliquet magna, vitae consequat leo.</font></div></div>
+<div xmlns="http://www.w3.org/1999/xhtml"><br class="Apple-interchange-newline"/> </div></my:Notes>
+								</my:Sessions></my:myFields>
